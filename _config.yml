@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Arpit Panwar # your name (or website title) here
+logo: "/images/profile_photo_logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am seeking a new journey in the field of Data Science
+  where I get exposure to real-world problems and an understanding of
+  business using data. I am currently exploring visualization tools such
+  as PowerBI and different python libraries. 
+  
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/arpitpanwar21/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/panwarcal/">View My Github Profile</a> 
+  <a href="https://www.kaggle.com/panwararpit/">View My Kaggle Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
