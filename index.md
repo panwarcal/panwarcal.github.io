@@ -4,7 +4,7 @@
 
 ### Projects
 
-#### - [Highway Toll Leakage & Revenue Loss](https://www.kaggle.com/code/panwararpit/highway-toll-leakage-revenue-loss)
+#### [Highway Toll Leakage & Revenue Loss](https://www.kaggle.com/code/panwararpit/highway-toll-leakage-revenue-loss)
 <img src="images/Screenshot 2022-12-27 at 8.11.49 PM.png?raw=true"/>
 Based on toll transactions of 4 tolls and various details about tolls such as Coordinates, Price, etc I calculated the revenue lost because of vehicles skipping tolls
 
